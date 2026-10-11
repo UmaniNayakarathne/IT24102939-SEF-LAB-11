@@ -1,0 +1,20 @@
+
+# Build output
+**/bin/
+**/obj/
+
+# Local environment files
+.env
+.env.*
+appsettings.Development.json
+appsettings.Local.json
+
+# Git and IDE files
+.git/
+.github/
+.vs/
+.vscode/
+
+# Local user files
+*.user
+*.suo
