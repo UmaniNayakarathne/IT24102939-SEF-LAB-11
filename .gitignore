@@ -1,0 +1,16 @@
+# Frontend
+node_modules/
+dist/
+
+# Backend
+bin/
+obj/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Local configuration
+appsettings.Development.json
+appsettings.Local.json
