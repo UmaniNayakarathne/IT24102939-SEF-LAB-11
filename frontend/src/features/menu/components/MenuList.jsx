@@ -1,4 +1,5 @@
-import DishCard from "./DishCard";
+import DishCard from "./Dishcard";
+
 function MenuList({ dishes }) {
  if (!dishes.length) return <p>No dishes match your search.</p>;
  return (
